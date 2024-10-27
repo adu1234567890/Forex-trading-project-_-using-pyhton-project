@@ -1,2 +1,2 @@
-# Forex-trading-project_using-pyhton_
+# Forex-trading-project_using-pyton_
 IT IS A PROJECT WHICH IS BASED ON THE LIVE TRADING VALUE IN THE SCREEN  1MINUTE OR 1 DAY INTERVAL.
